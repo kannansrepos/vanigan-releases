@@ -14,11 +14,11 @@ Download the latest verified desktop client binaries below.
 
 | Package Type | File | Description | Download Link |
 | :--- | :--- | :--- | :--- |
-| **⚡ Web Installer** *(Recommended)* | `VaniganPOS-WebInstaller.exe` | **Tiny stub (~277 KB)**. Downloads and configures the latest production release on demand. | [Download Web Installer](https://github.com/kannansrepos/vanigan-releases/releases/latest/download/VaniganPOS-WebInstaller.exe) |
-| **💿 Full Offline Setup** | `Vanigan.POS-Setup-1.0.0.exe` | **Full standalone bundle (~88 MB)**. For offline installations without requiring an active internet connection. | [Download Standalone .exe](https://github.com/kannansrepos/vanigan-releases/releases/latest/download/Vanigan.POS-Setup-1.0.0.exe) |
-| **🏢 Enterprise MSI Package** | `Vanigan.POS-Setup-1.0.0.msi` | **Windows Installer (~96 MB)**. Designed for IT administrators, Active Directory GPO, and silent network deployments. | [Download Enterprise .msi](https://github.com/kannansrepos/vanigan-releases/releases/latest/download/Vanigan.POS-Setup-1.0.0.msi) |
+| **⚡ Web Installer** *(Recommended)* | `VaniganPOS-WebInstaller.exe` | **Tiny stub (~277 KB)**. Downloads and configures the latest production release on demand. | [Download Web Installer](https://github.com/kannansrepos/vanigan-releases/releases/download/v1.0.0/VaniganPOS-WebInstaller.exe) |
+| **💿 Full Offline Setup** | `Vanigan.POS-Setup-1.0.0.exe` | **Full standalone bundle (~88 MB)**. For offline installations without requiring an active internet connection. | [Download Standalone .exe](https://github.com/kannansrepos/vanigan-releases/releases/download/v1.0.0/Vanigan.POS-Setup-1.0.0.exe) |
+| **🏢 Enterprise MSI Package** | `Vanigan.POS-Setup-1.0.0.msi` | **Windows Installer (~96 MB)**. Designed for IT administrators, Active Directory GPO, and silent network deployments. | [Download Enterprise .msi](https://github.com/kannansrepos/vanigan-releases/releases/download/v1.0.0/Vanigan.POS-Setup-1.0.0.msi) |
 
-*(Direct release assets can also be browsed on the [GitHub Releases Page](https://github.com/kannansrepos/vanigan-releases/releases)).*
+*(Direct release assets can also be browsed on the [GitHub Releases Page](https://github.com/kannansrepos/vanigan-releases/releases/tag/v1.0.0)).*
 
 ---
 
